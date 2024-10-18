@@ -1,4 +1,4 @@
-# 👁‍🗨 About MasonGroup
+# 👁‍🗨 About Mason Group
 
 Welcome to **MasonGroup**, the official repository for the **FREEMASONRY** group! 🏴‍☠️
 
@@ -23,7 +23,7 @@ We are a collective of developers and cybersecurity enthusiasts who specialize i
 - MMLO7
 - MALWARE LAB
 
-This repository is a treasure trove of tools, techniques, and cutting-edge projects designed to push the boundaries of modern cybersecurity. Whether you are here to learn, collaborate, or simply observe, we welcome you! 🎓
+This repository is a treasure trove of tools, techniques, and cutting-edge projects designed to push the boundaries of modern cybersecurity Whether you are here to learn, collaborate, or simply observe, we welcome you! 🎓
 
 🖤 **Join us on this journey into the world of FREEMASONRY** 🖤
 
