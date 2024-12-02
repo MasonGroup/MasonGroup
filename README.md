@@ -6,7 +6,6 @@ We are a collective of developers and cybersecurity enthusiasts who specialize i
 
 ⚙️ **Specialties**:
 - Malware Creation 🐍
-- Rootkits & RATs 🕵️‍♂️
 - .NET Framework and C# Development 🚀
 
 This repository is a treasure trove of tools, techniques, and cutting-edge projects designed to push the boundaries of modern cybersecurity Whether you are here to learn, collaborate, or simply observe, we welcome you! 🎓
