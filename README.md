@@ -20,4 +20,5 @@ Feel free to fork, contribute, and star ⭐ our projects if you find them useful
 ---  
 
 🚨 **Disclaimer**:
+
  This repository is intended for educational purposes only. Any use of the materials provided here for illegal activities is strictly prohibited. FREEMASONRY does not condone malicious hacking or unethical behavior.
