@@ -1,23 +1,21 @@
+# MIT License
 
-# Freemasonry
+Copyright (c) 2025 Mason
 
-Welcome to **MasonGroup**, the official repository for the **FREEMASONRY** group!
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-We are a collective of developers and cybersecurity enthusiasts who specialize in **malware development** 🛡️ and **.NET languages** 💻. Our work is dedicated to exploring the deeper realms of programming and system exploitation.  
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-⚙️ **Specialties**:  
-- Malware Creation 🐍  
-- .NET Framework and C# Development 🚀  
-
-This repository is a treasure trove of tools, techniques, and cutting-edge projects designed to push the boundaries of modern cybersecurity. Whether you are here to learn, collaborate, or simply observe, we welcome you! 🎓  
-
- **Join us on this journey into the world of FREEMASONRY**   
-
-> **Note:** The name "Mason Group" was originally created as a joke but has since become a recognizable identity for our community.  
-
-Feel free to fork, contribute, and star ⭐ our projects if you find them useful. For any inquiries or collaboration, reach out via the Issues tab or contact us directly.  
-
----  
-
-🚨 **Disclaimer**:
- This repository is intended for educational purposes only. Any use of the materials provided here for illegal activities is strictly prohibited. FREEMASONRY does not condone malicious hacking or unethical behavior.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
